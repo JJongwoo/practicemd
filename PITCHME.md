@@ -1,24 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @JJongwoo Sign out
- The password you provided is weak and can be easily guessed. To increase your security, please change your password as soon as possible.
-
-Read our documentation on safer password practices.
-
-0
-0 0 Jimojimojimo/public
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-public/PITCHME.md
-54f794b  a day ago
-@Jimojimojimo Jimojimojimo Update PITCHME.md
-     
-57 lines (56 sloc)  2.01 KB
 토르의 집사들
 
 김남희 라형인 성민규 이석원 장지모 --- # 목차 
@@ -28,16 +7,3 @@ public/PITCHME.md
 Seokwon
 
 --- # 장지모 * 별명 : 자모, 마조리카,... * 성격 : 소심하지만 밝음. * 연말계획 : 2018년 되돌아보며 반성하기. ![마조리카](https://s3.namuwikiusercontent.com/s/8a94f59b2d07477397136a88c17f3413735762b7e523d5b1b14fbbff687cb4b78b3eafcef486cf55799536615114368d93620dd218023e5ad465e2d56b2915af51cce951586f90665dd00b2a850d64c8e1c8508ddc779cb026aa3c77d83a2894) --- # 감사합니다.
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
